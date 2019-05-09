@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+a {
+  color: inherit;
+}
+.container {
+  font-family: 'Baloo Bhai', cursive;
+  color: #222;
+  text-transform: uppercase;
+  text-align: center;
+}
+.text {
+  font-size: 5em;
+  text-shadow: -3px 0 1px #1ef2f1, 3px 0 1px #f6050a;
+  margin: 0;
+}
+.dot {
+  margin-left: 5px;
+  font-size: 1.5em !important;
+  text-shadow: -2px 0 1px #1ef2f1, 2px 0 1px #f6050a;
+}
